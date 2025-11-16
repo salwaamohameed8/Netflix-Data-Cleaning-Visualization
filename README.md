@@ -1,2 +1,1 @@
-# Netflix-Data-Cleaning-Visualization
-This project focuses on exploring, cleaning, and visualizing Netflix Movies and TV Shows data to uncover meaningful insights. It demonstrates strong data analysis skills using Python and showcases the complete workflow from raw dataset to clear business insights.
+<img width="1674" height="660" alt="image" src="https://github.com/user-attachments/assets/baf3453c-d460-49e3-bc08-36940dc5efe5" />
